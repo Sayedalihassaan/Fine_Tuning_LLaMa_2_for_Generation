@@ -1,5 +1,5 @@
-Fine-Tuning LLaMA-2 for Text Generation
-This project demonstrates how to fine-tune the LLaMA-2-7B model for text generation using the Hugging Face Transformers library, PEFT (Parameter-Efficient Fine-Tuning) with LoRA (Low-Rank Adaptation), and 4-bit quantization for memory efficiency. The fine-tuned model is trained on the mlabonne/guanaco-llama2-1k dataset and uploaded to the Hugging Face Hub for inference.
+## Fine-Tuning LLaMA-2 for Text Generation
+### This project demonstrates how to fine-tune the LLaMA-2-7B model for text generation using the Hugging Face Transformers library, PEFT (Parameter-Efficient Fine-Tuning) with LoRA (Low-Rank Adaptation), and 4-bit quantization for memory efficiency. The fine-tuned model is trained on the mlabonne/guanaco-llama2-1k dataset and uploaded to the Hugging Face Hub for inference.
 Table of Contents
 
 Project Overview
